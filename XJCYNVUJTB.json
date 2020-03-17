@@ -1,0 +1,27 @@
+{
+"filename": "teste2.txt",
+"caracters": "20",
+"words": "4",
+"letters_frequencys": {
+"M": 1,
+"O": 1,
+"a": 3,
+"d": 1,
+"e": 1,
+"g": 1,
+"h": 1,
+"i": 1,
+"l": 2,
+"n": 1,
+"o": 2,
+"s": 2,
+"t": 2,
+"u": 1
+},
+"words_frequencys": {
+"Matheus": 1,
+"Ola": 1,
+"gato": 1,
+"lindos": 1
+}
+}
